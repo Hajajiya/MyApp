@@ -6,6 +6,7 @@ export class MyApp extends Component {
     return (
       <View style={{backgroundColor: 'black'}}>
         <Text>{'jiya'}</Text>
+        <Text>{'jiya'}</Text>
       </View>
     );
   }
