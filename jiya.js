@@ -5,7 +5,7 @@ export class MyApp extends Component {
   render() {
     return (
       <View style={{backgroundColor: 'black'}}>
-        <Text>{'jiya'}</Text>
+        <Text>{'haja'}</Text>
       </View>
     );
   }
