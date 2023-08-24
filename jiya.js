@@ -62,7 +62,7 @@ class jiya extends Component {
                 // this.handleLogin();
                 // navigation.navigate('about');
               }}>
-              <Text>{'Login'}</Text>
+              <Text style={{color: 'red'}}>{'Login'}</Text>
             </TouchableOpacity>
           </View>
         </ImageBackground>
