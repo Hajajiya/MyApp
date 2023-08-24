@@ -9,6 +9,7 @@ import {
   Dimensions,
   TouchableOpacity,
 } from 'react-native';
+import codepush from 'react-native-code-push';
 
 class jiya extends Component {
   constructor(props) {
@@ -100,4 +101,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default jiya;
+export default codepush(jiya);
